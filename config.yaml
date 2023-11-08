@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    testuser1:
+      email: testuser1@gmail.com
+      name: test user1
+      password: $2b$12$43DAcIp8iPxEp.yXXNtY/./1VapqoiVDUXaghaZDAeij954v8K1Nm # password1 
+    testuser2:
+      email: testuser2@gmail.com
+      name: test user2
+      password: $2b$12$VhTjvvoZHxPTMlAtare7i.IKp657U6MbHcRhE2Uz2gMLdaATwBr1K # password2
+cookie:
+  expiry_days: 30
+  key: abcd # Must be string
+  name: graph
+preauthorized:
+  emails:
+  - gottipatianoop27@gmail.com
